@@ -1,13 +1,8 @@
-// wherever you include this header file
-// convert you int main to int32_t main()
-// because i defined int as long long int
-
-// example
 // #include "bigint.h"
 // int32_t main(){
 //  bigint a,b;
-//	cin>>a>>b;
-//	cout<<a*b;
+//	cin >> a >> b;
+//	cout << a * b;
 // }
 
 #define int long long int
@@ -16,7 +11,8 @@ const int base = 1000000000;
 const int base_digits = 9;
 
 struct bigint {
-	// this vector carries at most 9 digit numbers at one index
+
+	// Vector carries at most 9 digit numbers at one index
 	vector<int> z;
 
 	// sign of the number
@@ -416,6 +412,7 @@ T power(T a, long long b) {
 	return r;
 }
 
+// https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 template <typename T>
 T inverse(T a, T m) {
 	a = a % m;
