@@ -1,4 +1,4 @@
-# Big-Integer-CPP-Implementation
+# Big-Integer-Implementation-Cpp
 C++ implementation of Big Integers 
 
 * Include the following headerfiles :- iostream, iomanip and vector
