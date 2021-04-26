@@ -10,4 +10,4 @@ C++ implementation of Big Integers :
 
 References : https://en.wikipedia.org/wiki/Karatsuba_algorithm
 
-![Alt text](screenshots/to/img.jpg?raw=true "Title")
+![Alt text](./Screenshot/1.png?raw=true "Title")
