@@ -1,6 +1,12 @@
 # Big-Integer-Implementation-Cpp
-C++ implementation of Big Integers 
+C++ implementation of Big Integers : 
 
-* Include the following headerfiles :- iostream, iomanip and vector
-* This class will works on C++ 14 and above.
-* Karatsuba multiplication is used to multiply two big integers efficiently
+* Header files required: iostream, iomanip and vector
+* Works on C++ 14 and above.
+* Class supports all relational, arithmetical, assignment and Unary operators.
+* Karatsuba multiplication is used to multiply two big integers efficiently.
+* Various aspects of Object Oriented Programming are also used.
+* Accurate upto 1 Billion Digits
+
+References : https://en.wikipedia.org/wiki/Karatsuba_algorithm
+
