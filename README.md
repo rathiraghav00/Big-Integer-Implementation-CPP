@@ -1,4 +1,4 @@
-# Big-Integer-Implementation-Cpp
+# Big-Integer-Implementation-CPP
 
 C++ implementation of Big Integers :
 
